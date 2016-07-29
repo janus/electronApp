@@ -4,9 +4,9 @@ To give it a try:
 Clone the repo
 
 _I assume that you have NodeJS already in your box_
--npm install
--npm run-script watch
--npm start
+- [x] npm install
+- [x] npm run-script watch
+- [x] npm start
 
 
 
