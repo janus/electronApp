@@ -1,6 +1,6 @@
 ## Tiny Client for StackOverFlow(Desktop based) 
 ###### This App is JavaScript however it runs on the Desktop.  The main components are React and Electron.
-To give it a try:
+To give it a trial:
 - [x] Clone the repo
 
 _(I assume that you have NodeJS already in your box)_
