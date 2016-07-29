@@ -9,5 +9,5 @@ _(I assume that you have NodeJS already in your box)_
 - [x] npm start
 
 
-@octocat :+1: If you have ideas, please send pull requests! :shipit:
+@janus :+1: If you have ideas, please send pull requests! :shipit:
 ##Tiny Client for StackOverFlow using React and Electron(Desktop)
