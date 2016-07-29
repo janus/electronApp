@@ -9,5 +9,5 @@ _(I assume that you have NodeJS already in your box)_
 - [x] npm start
 
 
-:+1: If you have ideas, please send pull requests! :shipit:
+:+1: If you have ideas, please send pull requests!
 ##Tiny Client for StackOverFlow using React and Electron(Desktop)
