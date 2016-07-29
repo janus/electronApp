@@ -1,0 +1,21 @@
+<html>
+<head>
+  <title>
+
+Configuration
+</title>
+  <link rel="stylesheet"
+    href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+</head>
+<body>
+Performs Here
+<div id="config"></div>
+
+</body>
+
+    <script  src="http://localhost:8080/webpack-dev-server.js">
+    </script>
+    <script  src="http://localhost:8080/built/bundle.js">
+    </script>
+</html>
